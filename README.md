@@ -1,6 +1,7 @@
 <div align="center">
 
-# Logo de la Universidad
+<img src="https://raw.githubusercontent.com/Brainova-OpenSource/Report/main/images/general/LOGO-UPC.png" alt="Logo UPC" width="200">
+
 # Universidad Peruana de Ciencias Aplicadas
 ## Facultad de Ingeniería
 ## Ingeniería de Software
