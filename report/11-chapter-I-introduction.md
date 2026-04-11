@@ -28,25 +28,38 @@ Nuestra visión es ser una solución tecnológica líder en la digitalización d
 #### Who (¿Quiénes son los involucrados?)
 Los principales involucrados son los propietarios y administradores de panaderías que buscan optimizar la gestión de sus operaciones, especialmente en contextos de crecimiento o expansión a múltiples sedes. Asimismo, el personal operativo forma parte del entorno del problema, ya que depende de herramientas adecuadas para registrar ventas, controlar inventarios y monitorear la producción.
 
+---
+
 #### What (¿Qué se necesita?)
 Se requiere una solución tecnológica que permita centralizar la gestión de inventarios, ventas, producción y múltiples locales, integrando además el monitoreo de maquinaria mediante sensores IoT. Esta solución debe proporcionar información precisa, en tiempo real, que facilite la supervisión de procesos y la toma de decisiones estratégicas.
+
+---
 
 #### Where (¿Dónde ocurre el problema?)
 El problema se presenta principalmente en panaderías ubicadas en entornos urbanos, donde existe alta demanda y dinamismo comercial, lo que impulsa el crecimiento del negocio y la apertura de nuevas sedes.
 
+---
+
 #### When (¿Cuándo surge esta necesidad?)
 La necesidad surge cuando las panaderías incrementan su volumen de producción y ventas, así como al expandirse a múltiples locales. En este punto, la gestión manual o el uso de sistemas no integrados resulta insuficiente para mantener el control operativo y garantizar la calidad del producto.
+
+---
 
 #### Why (¿Por qué existe esta necesidad?)
 El crecimiento del negocio incrementa la complejidad operativa, especialmente en la gestión de inventarios, control de ventas, supervisión de producción y mantenimiento de equipos. La ausencia de herramientas tecnológicas adecuadas dificulta la eficiencia operativa y limita la capacidad de toma de decisiones basadas en datos.
 
+---
+
 #### How (¿Cómo se manifiesta el problema?)
 El problema se manifiesta mediante el uso de procesos manuales o herramientas aisladas, lo que genera desorganización, errores en el registro de información, falta de visibilidad del estado de los inventarios y dificultades para supervisar las condiciones de producción, como la temperatura de hornos o el estado de cámaras frigoríficas.
+
+---
 
 #### How Much (¿Qué magnitud tiene el problema?)
 El impacto del problema es significativo, ya que genera pérdidas económicas, desperdicio de insumos, disminución de la calidad del producto y baja eficiencia operativa. Esto afecta directamente la rentabilidad y limita el crecimiento sostenible de las panaderías.
 
 ---
+
 #### Descripción de la problemática
 
 En el contexto peruano, las micro y pequeñas empresas, especialmente las panaderías, desempeñan un rol fundamental en la economía; sin embargo, enfrentan importantes limitaciones en su gestión operativa que afectan su sostenibilidad y crecimiento. Diversos estudios evidencian que una proporción considerable de estos negocios presenta deficiencias en el control de inventarios y en la gestión de sus recursos, lo que impacta negativamente en su rendimiento.
@@ -152,3 +165,32 @@ Como consecuencia, se producen ineficiencias en la gestión, dificultades en la 
 - Tiempo de respuesta ante fallas en maquinaria.
 - Nivel de satisfacción de los usuarios respecto a los procesos actuales.
 
+### 1.2.2.3. Lean UX Hypothesis Statements
+
+#### Hipótesis 1
+Creemos que la implementación de una plataforma centralizada que integre la gestión de inventarios, ventas y producción permitirá a los propietarios y administradores de panaderías mejorar el control de sus operaciones.  
+Tendremos éxito si observamos una reducción en los errores operativos y una mejora en la toma de decisiones basada en información actualizada y consolidada.
+
+---
+
+#### Hipótesis 2
+Creemos que la incorporación de monitoreo en tiempo real mediante sensores IoT en equipos clave como hornos y cámaras frigoríficas permitirá detectar fallas de manera oportuna.  
+Tendremos éxito si se reduce la frecuencia de incidentes no detectados y disminuyen las pérdidas asociadas a fallas en maquinaria o condiciones inadecuadas.
+
+---
+
+#### Hipótesis 3
+Creemos que la gestión de múltiples sedes desde una única interfaz permitirá a los negocios en expansión organizar sus operaciones de manera más eficiente.  
+Tendremos éxito si se evidencia una mejora en la coordinación entre sedes y una reducción en los tiempos de supervisión y control.
+
+---
+
+#### Hipótesis 4
+Creemos que una interfaz intuitiva para el personal operativo facilitará el registro de ventas y el control de inventarios.  
+Tendremos éxito si se reduce la cantidad de errores en el registro de información y se optimiza el tiempo requerido para realizar tareas operativas.
+
+---
+
+#### Hipótesis 5
+Creemos que la generación de alertas automáticas ante incidentes y la disponibilidad de información en tiempo real incrementará la capacidad de respuesta del negocio.  
+Tendremos éxito si se reduce el tiempo de reacción ante eventos críticos y se mejora la continuidad operativa de las panaderías.
