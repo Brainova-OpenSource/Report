@@ -1,7 +1,5 @@
 # Capítulo I: Introducción
-
 ## 1.1. Startup Profile
-
 ### 1.1.1. Descripción de la Startup
 
 Somos Brainova, un equipo de estudiantes de la Universidad Peruana de Ciencias Aplicadas comprometidos con el desarrollo de soluciones tecnológicas innovadoras para optimizar la gestión de negocios como panaderías, pastelerías, bodegas y minimarkets. Nuestra propuesta consiste en una plataforma web de gestión empresarial que permite mejorar la eficiencia operativa, automatizar procesos y facilitar la toma de decisiones.
