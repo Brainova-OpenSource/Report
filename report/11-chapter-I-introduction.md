@@ -194,3 +194,61 @@ Tendremos éxito si se reduce la cantidad de errores en el registro de informaci
 #### Hipótesis 5
 Creemos que la generación de alertas automáticas ante incidentes y la disponibilidad de información en tiempo real incrementará la capacidad de respuesta del negocio.  
 Tendremos éxito si se reduce el tiempo de reacción ante eventos críticos y se mejora la continuidad operativa de las panaderías.
+
+## 1.3. Segmentos objetivo
+
+En el presente proyecto se identifican dos segmentos principales de usuarios, directamente vinculados con el dominio del problema: los propietarios y administradores de panaderías en proceso de crecimiento, y el personal operativo encargado de la ejecución diaria de las actividades del negocio. A continuación, se describen ambos perfiles.
+
+---
+
+### Propietarios y Administradores de Panaderías
+
+Este segmento corresponde a personas naturales o jurídicas responsables de la gestión integral de panaderías y negocios afines, como pastelerías y minimarkets, quienes buscan optimizar sus operaciones y expandir sus actividades mediante la apertura de nuevas sedes.
+
+#### Características demográficas
+
+- **Ubicación:** Zonas urbanas y comerciales con alta demanda de productos de consumo diario.
+- **Edad promedio:** Entre 30 y 55 años.
+- **Nivel socioeconómico:** Medio.
+- **Tipo de negocio:** Micro y pequeñas empresas, en muchos casos de carácter familiar.
+
+#### Datos relevantes
+
+- El sector panadero en el Perú está conformado por miles de unidades productivas a nivel nacional, en su mayoría micro y pequeñas empresas, lo que evidencia su alta representatividad dentro de la economía.
+- La industria panadera ha registrado pérdidas económicas significativas, lo que pone en evidencia deficiencias en la gestión operativa, el control de recursos y la toma de decisiones dentro del sector.
+- Durante campañas estacionales, como la Navidad, se proyecta la producción de millones de unidades de productos, lo que evidencia un incremento significativo en la demanda y en la carga operativa, exigiendo mayor capacidad de planificación y control.
+
+#### Necesidades clave
+
+- Centralización de la información operativa, incluyendo ventas, inventarios y producción, en una única plataforma.
+- Monitoreo en tiempo real del estado de las sedes y maquinaria mediante tecnologías IoT.
+- Control eficiente del flujo de ventas y gestión financiera básica.
+- Supervisión y administración de múltiples locales de manera integrada.
+- Reducción de pérdidas operativas a través de una gestión optimizada de recursos.
+
+---
+
+### Personal Operativo
+
+Este segmento está conformado por trabajadores responsables de la ejecución de las actividades operativas del negocio, tales como la atención al cliente, el registro de ventas, el control de inventarios y el apoyo en los procesos productivos.
+
+#### Características demográficas
+
+- **Edad:** Entre 20 y 45 años.
+- **Nivel educativo:** Secundaria completa o formación técnica.
+- **Ocupación:** Cajeros, panaderos y asistentes de producción.
+- **Nivel de experiencia:** Variable, con predominio de aprendizaje práctico en el entorno laboral.
+
+#### Datos relevantes
+
+- En una gran proporción de panaderías, los procesos operativos continúan siendo gestionados mediante métodos manuales o herramientas básicas, lo que incrementa la probabilidad de errores y limita la eficiencia operativa.
+- El incremento de la demanda en periodos festivos exige una mayor capacidad de respuesta, precisión y coordinación en las actividades diarias.
+- La ausencia de sistemas integrados dificulta la articulación entre áreas clave como ventas, inventarios y producción, generando inconsistencias en la información y limitando la capacidad de respuesta ante incidencias operativas.
+
+#### Necesidades clave
+
+- Herramientas digitales intuitivas para el registro eficiente de ventas.
+- Acceso inmediato a información actualizada sobre inventarios.
+- Reducción de errores en los procesos operativos diarios.
+- Automatización de tareas repetitivas para optimizar el tiempo de trabajo.
+- Recepción de alertas en tiempo real ante incidencias en el proceso productivo.  
