@@ -58,6 +58,3 @@ En muchas panaderías, la gestión de inventarios y ventas se realiza de manera 
 Adicionalmente, a diferencia de otros rubros comerciales, las panaderías dependen en gran medida del correcto funcionamiento de sus equipos de producción, como hornos y cámaras frigoríficas. La falta de monitoreo continuo de variables críticas como temperatura y humedad puede generar fallas en la cocción, pérdida de insumos o deterioro de la calidad del producto final. Asimismo, la ausencia de alertas tempranas ante posibles incidentes, como sobrecalentamientos o fallas en refrigeración, incrementa el riesgo operativo.
 
 En este contexto, la carencia de soluciones tecnológicas integradas que permitan automatizar procesos, centralizar la información y monitorear en tiempo real tanto la operación como la maquinaria limita la capacidad de las panaderías para optimizar su gestión. Esto se traduce en ineficiencias operativas, pérdidas económicas y dificultades para escalar de manera sostenible, evidenciando la necesidad de implementar herramientas digitales como BakeryManager, que integren la gestión empresarial con tecnologías IoT.
-
-
-
