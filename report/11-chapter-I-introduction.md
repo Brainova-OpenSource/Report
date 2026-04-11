@@ -59,3 +59,5 @@ Adicionalmente, a diferencia de otros rubros comerciales, las panaderías depend
 
 En este contexto, la carencia de soluciones tecnológicas integradas que permitan automatizar procesos, centralizar la información y monitorear en tiempo real tanto la operación como la maquinaria limita la capacidad de las panaderías para optimizar su gestión. Esto se traduce en ineficiencias operativas, pérdidas económicas y dificultades para escalar de manera sostenible, evidenciando la necesidad de implementar herramientas digitales como BakeryManager, que integren la gestión empresarial con tecnologías IoT.
 
+
+
