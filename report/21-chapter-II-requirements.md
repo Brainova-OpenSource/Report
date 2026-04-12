@@ -208,3 +208,25 @@ Enlace : https://canva.link/j708btfqlmsl8ms
 Enlace : https://canva.link/j708btfqlmsl8ms
 
 ## 2.4. Big Picture Event Storming
+<img src="https://raw.githubusercontent.com/Brainova-OpenSource/Report/main/assets/Big%20Picture%20Event%20Storming.jpg" alt="Big Picture Event Storming">
+
+
+## 2.5. Ubiquitous Language.
+| Término | Definición |
+|----------|------------|
+| Personal | Usuario del sistema que desempeña funciones dentro de la operación de la panadería, pudiendo asumir distintos roles según sus permisos |
+| Administrador / Jefe | Usuario del sistema que desempeña funciones dentro de la operación de la panadería, pudiendo asumir distintos roles según sus permisos |
+| Venta | Transacción comercial registrada en el sistema correspondiente a la comercialización de productos |
+| Boleta | Transacción comercial registrada en el sistema correspondiente a la comercialización de productos |
+| Inventario | Conjunto de registros que representan la disponibilidad y movimiento de productos dentro de la panadería. |
+| Stock | Cantidad disponible de un producto específico dentro del inventario. |
+| Reporte de ventas | Cantidad disponible de un producto específico dentro del inventario. |
+| Historial de ventas | Registro acumulado de todas las transacciones de venta realizadas en el sistema. |
+| Sensor IoT | Registro acumulado de todas las transacciones de venta realizadas en el sistema. |
+| Incidente | Evento anómalo detectado por el sistema, asociado a condiciones fuera de los parámetros establecidos, como posibles riesgos operativos. |
+| Alerta | Notificación generada automáticamente por el sistema ante la detección de un incidente o condición crítica. |
+| Historial de eventos | Registro estructurado en el cual se almacenan automáticamente los incidentes y eventos relevantes detectados por el sistema. |
+| Cámara frigorífica | Espacio destinado a la conservación de insumos, cuya temperatura y condiciones deben ser controladas. |
+| Horno | Equipo utilizado en el proceso de producción, cuyo funcionamiento requiere el control de variables como temperatura y humedad. |
+| Incidencia | Condición operativa del sensor, que puede ser activo, inactivo o presentar fallas. |
+| Permisos | Problema reportado manualmente por el personal en relación con la operación o el funcionamiento de equipos. |
