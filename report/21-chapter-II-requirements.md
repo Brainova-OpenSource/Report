@@ -58,3 +58,59 @@ Asimismo, permite evidenciar la oportunidad de desarrollar una herramienta integ
 | **Amenazas (A)** | Competencia de sistemas POS, ERP y soluciones parciales de bajo costo. | Diferenciarse mediante una propuesta de valor completa frente a sistemas fragmentados como Odoo o Loyverse POS, destacando la integración con IoT y el enfoque especializado en panaderías. |
 | **Fortalezas (F)** | Solución integral, monitoreo IoT y enfoque en panaderías MYPES. | Potenciar las ventajas competitivas resaltando la integración de procesos y el monitoreo en tiempo real, posicionando el producto como una herramienta especializada que mejora el control operativo y la toma de decisiones. |
 | **Debilidades (D)** | Baja adopción inicial y limitaciones de recursos frente a competidores consolidados. | Implementar estrategias de captación mediante planes accesibles, facilitar la adopción progresiva del sistema y optimizar continuamente el producto para generar confianza y fidelización en los usuarios. |
+
+## 2.2. Entrevistas
+### 2.2.1. Diseño de entrevistas
+
+En esta sección se presenta el diseño de las entrevistas realizadas a los principales actores involucrados en el dominio del problema, con el objetivo de comprender sus necesidades, dificultades y expectativas respecto a la gestión de panaderías en proceso de crecimiento.
+
+---
+
+### **Segmento 1: Propietarios y Administradores de Panaderías**
+
+**Datos generales:**
+- Nombre completo
+- Edad
+- Distrito de residencia
+- Cargo
+- Tipo de negocio
+
+**Preguntas:**
+1. Actualmente, ¿cuántos locales o sedes administra su negocio?
+2. ¿Cómo gestiona actualmente sus ventas, inventarios y producción?
+3. ¿Qué herramientas utiliza para el control de su negocio (Excel, cuadernos, sistemas, etc.)?
+4. ¿Ha tenido dificultades para controlar sus operaciones (ventas, stock, producción)? ¿Cuáles?
+5. ¿Cómo supervisa el estado de su maquinaria (hornos, batidoras, etc.)?
+6. ¿Ha experimentado incidentes operativos (fallas, sobrecalentamiento, pérdidas de producto)?
+7. ¿Qué tan importante considera contar con información en tiempo real de sus operaciones?
+8. ¿Qué opinaría de una plataforma que integre ventas, inventarios, producción y monitoreo de maquinaria en tiempo real?
+9. ¿Estaría dispuesto(a) a implementar una solución tecnológica de este tipo en su negocio?
+10. ¿Qué beneficios esperaría obtener de una herramienta como esta?
+11. ¿Qué funcionalidades le gustaría que incluya el sistema?
+12. ¿Qué factores le generarían desconfianza o impedirían su uso?
+13. ¿Cómo considera que una solución tecnológica podría ayudarle a expandir su negocio?
+
+---
+
+### **Segmento 2: Personal Operativo (Cajeros y Encargados de Producción)**
+
+**Datos generales:**
+- Nombre completo
+- Edad
+- Distrito de residencia
+- Cargo
+- Tiempo de experiencia en el rubro
+
+**Preguntas:**
+1. ¿Cómo realiza actualmente el registro de ventas?
+2. ¿Cómo lleva el control del inventario en su área?
+3. ¿Ha tenido errores o dificultades en el registro de información?
+4. ¿Cómo se coordinan las actividades entre ventas, inventario y producción?
+5. ¿Ha tenido problemas con maquinaria (hornos, equipos)? ¿Cómo se detectan?
+6. ¿Recibe algún tipo de alerta o aviso ante fallas o incidentes?
+7. ¿Qué tan fácil o difícil considera el uso de herramientas digitales en su trabajo diario?
+8. ¿Qué opinaría de un sistema que le permita registrar ventas e inventarios de manera digital y sencilla?
+9. ¿Qué funcionalidades le facilitarían su trabajo diario?
+10. ¿Qué aspectos considera importantes para que un sistema sea fácil de usar?
+11. ¿Cómo cree que un sistema automatizado podría mejorar su desempeño laboral?  
+
