@@ -126,13 +126,14 @@ Segmento 2 - Personal Operativo
 ### 2.3.1. User Personas
 
 #### Segmento 1 : PROPIETARIOS Y ADMINISTRADORES DE PANADERÍAS
-<img src="https://raw.githubusercontent.com/TU-USUARIO/TU-REPO/main/assets/UserPerson1.png" alt="User Persona">
+<img src="https://raw.githubusercontent.com/Brainova-OpenSource/Report/main/assets/UserPerson1.png" alt="User Persona">
 
 ---
 
 #### Segmento 2 : PERSONAL OPERATIVO
-<img src="https://raw.githubusercontent.com/TU-USUARIO/TU-REPO/main/assets/UserPerson2.png" alt="User Persona">
+<img src="https://raw.githubusercontent.com/Brainova-OpenSource/Report/main/assets/UserPerson2.png" alt="User Persona">
 
 Enlace de los Users Persons: https://canva.link/cvpl6osqxm69o5t
+
 
 
