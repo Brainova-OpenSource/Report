@@ -203,3 +203,8 @@ Enlace : https://canva.link/j708btfqlmsl8ms
 
 #### Empathy Map – Personal Operativo
 <img src="https://raw.githubusercontent.com/Brainova-OpenSource/Report/main/assets/Empathy%20Map%20–%20Personal%20Operativo.png">
+
+
+Enlace : https://canva.link/j708btfqlmsl8ms
+
+## 2.4. Big Picture Event Storming
