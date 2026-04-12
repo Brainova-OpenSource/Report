@@ -191,5 +191,13 @@ Este conjunto de User Journey Maps presenta de manera integral el recorrido end-
 
 #### User Journey Map – Propietarios y Administradores de Panaderías
 <img src="https://raw.githubusercontent.com/Brainova-OpenSource/Report/main/assets/User%20Journey%20Map%20–%20Propietarios%20y%20Administradores%20de%20Panaderías.png" alt="User Journey Map">
+
 #### User Journey Map – Personal Operativo
 <img src="https://raw.githubusercontent.com/Brainova-OpenSource/Report/main/assets/User%20Journey%20Map%20%E2%80%93%20Personal%20Operativo.png" alt="User Journey Map">
+
+Enlace : https://canva.link/j708btfqlmsl8ms
+
+### 2.3.4. Empathy Mapping
+#### Empathy Map – Propietarios y Administradores de Panadería
+
+#### Empathy Map – Personal Operativo
