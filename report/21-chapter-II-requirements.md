@@ -190,3 +190,5 @@ La mayoría de las actividades realizadas por los propietarios, administradores 
 Este conjunto de User Journey Maps presenta de manera integral el recorrido end-to-end de los dos segmentos clave: los propietarios y administradores de panaderías y el personal operativo. El mapa abarca las principales etapas del ciclo operativo del negocio, articulando en cada una las acciones, pensamientos, emociones, puntos de contacto y problemáticas existentes. Su propósito es identificar los momentos donde la fricción impacta la eficiencia operativa, el control de recursos y la seguridad, así como detectar oportunidades de mejora. Este análisis permite derivar requerimientos funcionales, priorizar soluciones según su impacto y definir indicadores clave (KPIs) orientados a optimizar la gestión, la toma de decisiones y el aprovechamiento de tecnologías como los sensores IoT.
 
 #### User Journey Map – Propietarios y Administradores de Panaderías
+
+#### User Journey Map – Personal Operativo
