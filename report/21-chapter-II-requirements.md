@@ -199,5 +199,7 @@ Enlace : https://canva.link/j708btfqlmsl8ms
 
 ### 2.3.4. Empathy Mapping
 #### Empathy Map – Propietarios y Administradores de Panadería
+<img src="https://raw.githubusercontent.com/Brainova-OpenSource/Report/main/assets/Empathy%20Map%20–%20Propietarios%20y%20Administradores%20de%20Panadería.png">
 
 #### Empathy Map – Personal Operativo
+<img src="https://raw.githubusercontent.com/Brainova-OpenSource/Report/main/assets/Empathy%20Map%20–%20Personal%20Operativo.png">
