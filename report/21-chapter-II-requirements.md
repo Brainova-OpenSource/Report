@@ -114,3 +114,15 @@ En esta sección se presenta el diseño de las entrevistas realizadas a los prin
 10. ¿Qué aspectos considera importantes para que un sistema sea fácil de usar?
 11. ¿Cómo cree que un sistema automatizado podría mejorar su desempeño laboral?  
 
+### 2.2.2. Registro de entrevistas
+
+Segmento 1 - Propietarios y administradores de panaderias
+
+Segmento 2 - Personal Operativo
+
+### 2.2.3. Análisis de entrevistas.
+
+## 2.3. Needfinding
+### 2.3.1. User Personas
+
+
